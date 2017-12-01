@@ -14,7 +14,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 | Viikko | ma | ti | ke | to | pe | la | su |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **51**<br>18.12.-<br>24.12. |  | Aloitusluento<br>10-12<br>B222  |  |  |  |  |  |
+| **51**<br>18.12.-<br>24.12. |  | **Aloitusluento**<br>10-12<br>B222  |  |  |  |  |  |
 | **52**<br>25.12.-<br>31.12. |  |  |  |  |  |  |  |
 | **1**<br>1.1.-<br>7.1. |  |  |  |  |  |  |  |
 | **2**<br>8.1.-<br>14.1. |  |  |  |  |  |  |  |
@@ -24,4 +24,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * Lopullinen palautus: TBD
 
-* Ilmoittaudu [Weboodissa](https://weboodi.helsinki.fi) kurssille robottiohjelmoinnin harjoitustyö kun sellainen ilmestyy.
+* Ilmoittaudu [Weboodissa](https://weboodi.helsinki.fi/hy/opasopettaptied.jsp?AlkPvm=19122017&Tunniste=TKT21013&MD5avain=10aeb597-635a-4f4c-bdaa-839049ab150b&OpinKohd=122465726&OpetTap=122465992&takaisin=minkurss.jsp&rooli=0) kurssille robottiohjelmoinnin harjoitustyö kun sellainen ilmestyy.
