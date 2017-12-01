@@ -2,7 +2,7 @@
 Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/javaLabra/Robolabra-2017-vuodenvaihde/wiki)
 
 **Ohjaajat:**
-* Saska Dönges "etunimi"@s.helsinki.fi, saskeli @IRCnet
+* Saska Dönges etunimi@cs.helsinki.fi, saskeli @IRCnet
 * Julius Uusinarkaus
 * Juho Kostet
 * Jami Valorinta
