@@ -7,6 +7,10 @@ Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/javaLabra/Robol
 * Juho Kostet, etunimi.sukunimi@helsinki.fi, tg: @Avaruus
 * Jami Valorinta, etunimi.sukunimi@helsinki.fi, tg: @jamivalo
 
+# Jos olet jonossa
+
+Voit yrittää etsiä itsellesi robotin ja siirtää itsesi "oma robotti" ryhmään tai tulla aloitusluennolla ja toivoa etää joku jättää saapumatta
+
 # Aikataulu
 
 Demotilaisuuden aika ja paikka ilmoitetaan myöhemmin kurssilla
