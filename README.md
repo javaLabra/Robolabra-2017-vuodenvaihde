@@ -4,7 +4,7 @@ Kaikki kurssidokumentaatio löytyy [wikistä](https://github.com/javaLabra/Robol
 **Ohjaajat:**
 * Saska Dönges etunimi@cs.helsinki.fi, saskeli @IRCnet
 * Julius Uusinarkaus
-* Juho Kostet
+* Juho Kostet, etunimi.sukunimi@helsinki.fi, tg: @Avaruus
 * Jami Valorinta, etunimi.sukunimi@helsinki.fi, tg: @jamivalo
 
 # Aikataulu
