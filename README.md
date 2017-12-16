@@ -28,4 +28,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 
 * Lopullinen palautus: 21.1. 23:59
 
-* Ilmoittaudu [Weboodissa](https://weboodi.helsinki.fi/hy/opasopettaptied.jsp?AlkPvm=19122017&Tunniste=TKT21013&MD5avain=10aeb597-635a-4f4c-bdaa-839049ab150b&OpinKohd=122465726&OpetTap=122465992&takaisin=minkurss.jsp&rooli=0) kurssille robottiohjelmoinnin harjoitustyö.
+* Ilmoittaudu [Weboodissa](https://weboodi.helsinki.fi/hy/opettaptied.jsp?OpetTap=122465992&html=1) kurssille robottiohjelmoinnin harjoitustyö.
